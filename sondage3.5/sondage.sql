@@ -1,0 +1,1 @@
+CREATE TABLE sondage (nom varchar(20), resultat varchar(20), date timestamp(14))
